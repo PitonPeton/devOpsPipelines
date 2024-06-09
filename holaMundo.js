@@ -1,5 +1,5 @@
-function saludar() {
-    console.log("¡Hola Mundo!");
-  }
-  
-  saludar();
+const holaMundo = () => {
+  return "¡Hola Mundo!"
+}
+
+module.exports = holaMundo
