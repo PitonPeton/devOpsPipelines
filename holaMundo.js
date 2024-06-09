@@ -1,5 +1,5 @@
 const holaMundo = () => {
-  return "¡Hola Mundo!"
+  return "¡Hola Mondo!"
 }
 
 module.exports = holaMundo
